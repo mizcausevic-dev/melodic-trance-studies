@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+tr01,Blue Ascent,pack-local equal-tempered pitch collection,A,138,4/4,480,32,61440,midi/tr01-blue-ascent/tr01-blue-ascent-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tr02,Far Signal,pack-local equal-tempered pitch collection,C,138,4/4,480,32,61440,midi/tr02-far-signal/tr02-far-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tr03,High Water,pack-local equal-tempered pitch collection,D#,138,4/4,480,32,61440,midi/tr03-high-water/tr03-high-water-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tr04,Return Arc,pack-local equal-tempered pitch collection,A#,138,4/4,480,32,61440,midi/tr04-return-arc/tr04-return-arc-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
