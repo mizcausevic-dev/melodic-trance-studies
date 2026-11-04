@@ -1,0 +1,26 @@
+{
+  "title": "Melodic Trance",
+  "study": "tr01",
+  "bpm": 138,
+  "source_audio": "preview/melodic-trance-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "8234ae24b051b88af02551aee717147de7c006462d5f2bc86a3d41c453dc3fbc",
+  "source_midi": "midi/tr01-blue-ascent/tr01-blue-ascent-combined.mid",
+  "source_midi_sha256": "e74faf9e6502d75b0a97455f51c9678926fd369f9f4f80b76402518c106537de",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "95a171c9f4e24fd19cd7f107a5d3f7015fd82f6993598ef5abcc569cf99d8429",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "fada28cd8ea333444405475a15666d743f9d45f03d93c7338c9ad83849c7d2ec",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "d098ed34352ffe8174f1c16a01c70f3e7ef95d7158561755de69f18d30c2fe97",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
