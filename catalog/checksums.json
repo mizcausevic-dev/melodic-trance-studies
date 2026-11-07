@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 784,
-      "sha256": "50fe2871f8225f5796f9e37989043106a35717558cecf6115da13eb1739a2716"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3548,
-      "sha256": "d534a3c82dcfbdedc8a69fdfabe7bcc96107c1fad284334a0316ef2811e36c89"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/melodic-trance-studies-midi.zip",
-      "bytes": 26726,
-      "sha256": "4ba0a1cd1464f6291968ad189c3cb6dbf51288a01583e611ce7d9bd3599ed4ef"
+      "bytes": 28856,
+      "sha256": "d2993ee975948191822dafae1918ac2aec4b86e7d5b7df72791256bed912945e"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31335,
       "sha256": "5675b15ef585d95890ee7121cf5f2aae389e42ff8229094235c47ff9fb2179d1"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1225954,
-      "sha256": "d098ed34352ffe8174f1c16a01c70f3e7ef95d7158561755de69f18d30c2fe97"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9226,
-      "sha256": "72b16e365bfb77471ddb301a02f27e289327f3e04ccef4279809b1bf8c199184"
+      "bytes": 9416,
+      "sha256": "0417db716736ccd9fc44d91a7fc33544d2f38e071c440e8c2adbc89c5fca9c58"
     },
     {
       "path": "midi/tr01-blue-ascent/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "dc1b4e84f1373a6a14092bc65ffcae8d7aeac24f16fe60adc14240153230db5b"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 784,
+      "sha256": "50fe2871f8225f5796f9e37989043106a35717558cecf6115da13eb1739a2716"
+    },
+    {
       "path": "preview/melodic-trance-studies-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "8234ae24b051b88af02551aee717147de7c006462d5f2bc86a3d41c453dc3fbc"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1135,
       "sha256": "e90ac914db816854c98d7760fb31cbe65a538b8fe414fa598454bd88385fd025"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3663,
+      "sha256": "227a18550192a21fa4b6a35b6dbfd8385318c9f7282ed0369bade51dc23c53d6"
     },
     {
       "path": "social/instagram/caption.txt",
